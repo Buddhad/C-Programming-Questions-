@@ -1,0 +1,143 @@
+			C-Programming Questions
+		------------------------------------------
+
+1.	WAP to display your name. 
+2.	WAP to accept two integers and display their sum .
+3. 	WAP to accept one integer and one float number and display their product.
+4.	WAP to accept two 3 digit number and display the 
+       sum of 1st digit of first number and last digit of second number.
+5.	WAP to accept a character and display the ASCII value of that character.
+
+
+1.	WAP to check whether a number is even or odd. 
+2.	WAP to accept two integers and display the smaller one.
+3.	WAP to accept three integers and display the maximum number.
+4.	WAP to accept age and check whether he/she is teen  or not. 
+5.	WAP to accept two integers and display the smaller one using ternary operator. 
+6.	WAP to accept three integers and display the maximum 
+     number in a single statement using ternary operator.
+
+
+1.	WAP to accept day numbers and print day name 
+2.	WAP to design a mini calculator with the basic functionalities(+,-,*,/,%)
+3.	WAP to accept a character and display whether it is upper case,
+ 	lower case, digit or other.
+4.	WAP to accept a digit and display it in words(1:-One).
+5.	WAP to accept a digit and check whether it is positive, negative or zero.
+6.	 WAP and make a Calculator  and taking input from the User.
+
+
+
+1.	WAP to display the following series:
+
+       a. 1	4	9	16	25	n terms 
+	b. 1	2	4	8	16	32	n terms.
+	c. 1	11	111	1111….n terms.
+2.	WAP to display Fibonacci series.
+3.	WAP to display the factorial of a number.
+4.	WAP to display the following:
+	a. S=1+4+9+16+25+…..n terms.
+	b. S=x2/1!+x3/2! +x4/3!...n terms.
+	c. S=(1+2)/(1*2)-(1+2+3)/(1*2*3)+(1+2+3+4)/(1*2*3*4)...n terms.
+
+
+1.	WAP to accept 20 elements in an array and display it.
+2.	WAP to accept 25 elements in an array and display it in reverse order.
+3.	WAP to accept 20 elements in an array and display
+	the sum of all even numbers and product of all odd numbers.
+4.	WAP to accept 20 elements in an array and display the sum of all BUZZ numbers.
+5.	WAP to accept 50 elements in an array and display the maximum number.
+6.	WAP to accept numbers in an float array and
+	 display the maximum as well as minimum number.
+7.	WAP to accept 10 characters in an array and
+    	display the character with minimum ASCII value.
+8.	WAP to accept 20 numbers in an array and perform linear search.
+9.	WAP to accept the marks of 3 subjects in 3 different arrays for 10 students and
+ 	store the average marks of these students in another array and display it.
+10.	WAP to accept values in an array and display those numbers 
+	which are divisible by 4 and 5.
+	 
+
+
+1.	WAP to accept 20 elements in an array and sort it using Bubble sort technique.
+2.	WAP to accept 20 elements in an array and sort it using Selection sort technique.
+3.	WAP to accept 25 elements in a character array and 
+	display it after removing all duplicate characters.
+4.	WAP to perform Binary search in an array of 50 integers.
+5.	WAP to count the frequency of each character
+	 in an character array of 30 elements.
+6.	WAP to merge two sorted array into a single array in sorted 
+
+
+
+
+
+1.	WAP to accept values of a NxN matrix and display it.
+2.	WAP to display the diagonal elements of a matrix.
+3.	WAP to perform matrix addition.
+4.	WAP to display transpose of a matrix.
+5.	WAP to perform matrix multiplication.
+
+
+
+
+1.	WAP to perform addition, subtraction, multiplication and
+ 	division using separate functions.
+
+2.	WAP to display area of a rectangle, triangle, square using functions.
+3.	WAP to check if a given number is prime or not using function.
+4.	WAP to check if a number is Armstrong number or not using function.
+ 5.	WAP to display binary equivalent of a given decimal number using function.
+
+
+
+
+1. Write a menu-driven program using Switch case to calculate the following:
+
+	a. Area of circle b. Area of square c. Area of sphere
+
+2. Write a program to add two distances in inch-feet using structure. The values of the 	distances is to be taken from the user.
+
+3. Let us work on the menu of a library. Create a structure containing book information like 	accession number, name of author, book title and flag to know whether book is issued 	or not. 
+Create a menu in which the following can be done. 
+	1 - Display book information 
+	2 - Add a new book 
+	3 - Display all the books in the library of a particular author 
+	4 - Display the number of books of a particular title 
+	5 - Display the total number of books in the library 
+	6 - Issue a book (If we issue a book, then its number gets decreased by 1 and if we 	add a book, its number gets increased by 1)
+
+4. Write a Program for deletion of an element from the specified location from Array.
+
+
+    				File Handling
+			------------------------------
+
+1. 	WAP to read data from file and display it.
+
+2. 	WAP to accept a sentence from user and write it into a file.
+
+3.	WAP to accept few records from user and write it into a file.
+
+4. 	WAP to copy the content of a file into another file.
+
+5. 	WAP to count the number of characters, spaces, tabs and newlines in a file.
+
+				Bitwise Operator
+		-------------------------------------------------
+1.	Write a C program to check Least Significant Bit (LSB) of a number is set or not.
+2.	Write a C program to check Most Significant Bit (MSB) of a number is set or not.
+3.	Write a C program to get nth bit of a number.
+4.	Write a C program to set nth bit of a number.
+5.	Write a C program to clear nth bit of a number.
+6.	Write a C program to toggle nth bit of a number.
+7.	Write a C program to count leading zeros in a binary number.
+8.	Write a C program to convert decimal to binary number system using bitwise operator.
+9.	Write a C program to swap two numbers using bitwise operator.
+10.	Write a C program to check whether a number is even or odd using bitwise operator.
+
+---------------------------------------------------------------------------------------------
+
+
+
+	
